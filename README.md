@@ -56,7 +56,7 @@ exatamente como foi criada.</p>
 Exemplos:</p>
 
 <p><img src="https://github.com/user-attachments/assets/e75ed7b2-cc18-4abd-afb9-461457a0a7da
-"alt=""/></p>
+" alt=""/></p>
 
 <h3>:round_pushpin:	 Algoritmo - Fluxograma</h3>
 <p>•É a representação gráfica de algoritmos
@@ -74,5 +74,5 @@ implementação de programa;<br>
 Exemplo:</p>
 
 <p><img src="https://github.com/user-attachments/assets/df41d5f3-187e-444f-9b20-d440690653fc
-"alt=""/></p>
+" alt=""/></p>
 
