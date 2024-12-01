@@ -48,9 +48,10 @@ importante devido ao fato do computador executar uma tarefa
 exatamente como foi criada.</p>
 
 <h4>:triangular_flag_on_post:Etapas na Construção do Algoritmo</h4>
-<p>1. Definir o problema
-2. Estudar a situação e analisar a forma de resolver o problema
-3. Desenvolver o programa utilizando uma linguagem de programação
-4 Após a implementação, analisar junto aos usuários se o problema foi resolvido</p>
+<p>1. Definir o problema<br>
+2. Estudar a situação e analisar a forma de resolver o problema<br>
+3. Desenvolver o programa utilizando uma linguagem de programação<br>
+4 Após a implementação, analisar junto aos usuários se o problema foi resolvido<br></p>
+![AlgoritmoBolo jpg](https://github.com/user-attachments/assets/90af5787-6655-47fd-b440-7c1cabb7d79f)
 
 
