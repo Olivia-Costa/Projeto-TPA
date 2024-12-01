@@ -39,7 +39,7 @@ lógico SOBRE O PROBLEMA EM QUESTÃO.<b></p>
 linguagem natural;<br>
 
 Segue um exemplo de algoritmo para se fazer um bolo<br></p>
-<p><img src="AlgoritmoBolo.jpg" alt=""/></p>
+<p><img src="AlgoritmoBolo.jpg" alt="bolacha"/></p>
 
 <h4>Importância do Algoritmo</h4>
 
