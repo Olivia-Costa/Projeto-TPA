@@ -91,3 +91,43 @@ conhecer a sintaxe de nenhuma linguagem de programação.<br></p>
 
 :bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/9e36d2e7-bd0b-46b7-b4a0-fb1c06776e2c" alt=""/></p>
+
+
+<h3>:round_pushpin:	 Estrutura de Controle Condicional</h3>
+<p>• Em diversas situações precisamos fazer escolhas.<br>
+
+• "Nos algoritmos, frequentemente nos deparamos com a necessidade de
+
+verificar condições e modificar o fluxo de execução do programa,
+
+aplicando ações específicas para diferentes cenários. Isso é essencial
+
+para garantir o resultado desejado no desenvolvimento de sites ou
+
+aplicações.“<br>
+
+• Para essa estrutura, utilizamos as palavras-chave 'se' e 'senão'. Elas nos
+
+permitem verificar uma condição e decidir qual ação tomar com base
+
+nessa condição.<br>
+
+:bulb:Exemplo:</p>
+<p><img src="https://github.com/user-attachments/assets/f225800d-e20d-4595-9534-98189bb62ea0" alt=""/></p>
+
+<h3>:round_pushpin:	 Estrutura de Seleção Escolha-Caso</h3>
+<p>• É uma estrutura de seleção múltipla que desvia o fluxo para um
+
+determinado ponto, de acordo com o valor das constantes
+
+determinadas em sua estrutura.<br>
+
+• Esta estrutura é muito utilizada principalmente em programas onde
+
+existe um menu de opções, onde o usuário deve escolher apenas uma,
+
+para ser executada;<br>
+
+:bulb:Exemplo:</p>
+<p><img src="https://github.com/user-attachments/assets/39bed8e6-7596-4d7e-8838-be2ed51d012c" alt=""/></p>
+
