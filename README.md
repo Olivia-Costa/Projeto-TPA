@@ -17,4 +17,27 @@ programação<br>
 
 Sequência Lógica são passos executados até atingir um objetivo ou solução de um problema.<br></p>
 
-<h4>📎 :paperclip: Lógica</h4>
+<h4> :pushpin: Lógica</h4>
+<p>• A lógica está presente em nossa vida sempre que
+pensamos, falamos e escrevemos;<br>
+
+• Necessitamos estejam ordenados de modo a alcançar o
+resultado esperado;<br>
+
+• Fundamental para profissionais da informática, pois seu é
+solucionar problemas e atingir os objetivos esperados
+pelos usuários;<br>
+
+• Programação: ordenar as instruções em uma sequência
+lógica para atingir um determinado objetivo;<br>
+
+• Montagem de um algoritmo demonstrando seu raciocínio
+lógico SOBRE O PROBLEMA EM QUESTÃO.<b></p>
+
+<h3>:round_pushpin:	 Algoritmo - Forma Narrativa</h3>
+<p>Nesta forma de representação os algoritmos são expressos diretamente em
+linguagem natural;<br>
+
+Segue um exemplo de algoritmo para se fazer um bolo<br></p>
+<img scr="AlgoritmoBolo">
+
