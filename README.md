@@ -16,3 +16,5 @@ programação<br>
 • Sequência Lógica:<br>
 
 Sequência Lógica são passos executados até atingir um objetivo ou solução de um problema.<br></p>
+
+<h4>📎 :paperclip: Lógica</h4>
