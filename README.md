@@ -39,5 +39,5 @@ lógico SOBRE O PROBLEMA EM QUESTÃO.<b></p>
 linguagem natural;<br>
 
 Segue um exemplo de algoritmo para se fazer um bolo<br></p>
-<img src="AlgoritmoBolo">
+<p><img src="AlgoritmoBolo"></p>
 
