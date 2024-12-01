@@ -38,7 +38,7 @@ lógico SOBRE O PROBLEMA EM QUESTÃO.<b></p>
 <p>Nesta forma de representação os algoritmos são expressos diretamente em
 linguagem natural;<br>
 
-Segue um exemplo de algoritmo para se fazer um bolo:<br></p>
+:bulb:Segue um exemplo de algoritmo para se fazer um bolo:<br></p>
 <p><img src="https://github.com/user-attachments/assets/90af5787-6655-47fd-b440-7c1cabb7d79f" alt=""/></p>
 
 <h4>:triangular_flag_on_post: Importância do Algoritmo</h4>
@@ -53,7 +53,7 @@ exatamente como foi criada.</p>
 3. Desenvolver o programa utilizando uma linguagem de programação<br>
 4 Após a implementação, analisar junto aos usuários se o problema foi resolvido<br>
 
-Exemplos:</p>
+:bulb:Exemplos:</p>
 <p><img src="https://github.com/user-attachments/assets/e75ed7b2-cc18-4abd-afb9-461457a0a7da" alt=""/></p>
 
 <h3>:round_pushpin:	 Algoritmo - Fluxograma</h3>
@@ -69,6 +69,6 @@ que a Narrativa e, no entanto, não se
 preocupa com detalhes de
 implementação de programa;<br>
 
-Exemplo:</p>
+:bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/df41d5f3-187e-444f-9b20-d440690653fc" alt=""/></p>
 
