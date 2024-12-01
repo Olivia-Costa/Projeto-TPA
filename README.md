@@ -41,5 +41,16 @@ linguagem natural;<br>
 Segue um exemplo de algoritmo para se fazer um bolo<br></p>
 <p><img src="AlgoritmoBolo.jpg" alt="bolacha"/></p>
 
-<h4>Importância do Algoritmo</h4>
+<h4>:triangular_flag_on_post: Importância do Algoritmo</h4>
+
+<p>• Algoritmos na construção de programas de computadores é
+importante devido ao fato do computador executar uma tarefa
+exatamente como foi criada.</p>
+
+<h4>:triangular_flag_on_post:Etapas na Construção do Algoritmo</h4>
+<p>1. Definir o problema
+2. Estudar a situação e analisar a forma de resolver o problema
+3. Desenvolver o programa utilizando uma linguagem de programação
+4 Após a implementação, analisar junto aos usuários se o problema foi resolvido</p>
+
 
