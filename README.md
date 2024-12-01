@@ -72,3 +72,22 @@ implementação de programa;<br>
 :bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/df41d5f3-187e-444f-9b20-d440690653fc" alt=""/></p>
 
+<h3>:round_pushpin:	 Algoritmo - Pseudocódigo</h3>
+<p>• Esta forma de representação de algoritmo é rica em detalhes,
+
+como a definição dos tipos das variáveis usadas no algoritmo.
+
+Por assemelhar-se bastante à forma em que os programas são
+
+escritos;<br>
+
+• É uma forma genérica de escrever um algoritmo, utilizando
+
+uma linguagem simples (nativa a quem o escreve, de forma a
+
+ser entendida por qualquer pessoa) sem necessidade de
+
+conhecer a sintaxe de nenhuma linguagem de programação.<br></p>
+
+:bulb:Exemplo:</p>
+<p><img src="https://github.com/user-attachments/assets/9e36d2e7-bd0b-46b7-b4a0-fb1c06776e2c" alt=""/></p>
