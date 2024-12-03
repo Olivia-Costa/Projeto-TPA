@@ -159,4 +159,7 @@ Na declaração de um vetor podemos omitir seu tamanho , desde que quando seja f
 
 <p>:bulb:</p>
 
+<p><img src="https://github.com/user-attachments/assets/22da749d-b734-4717-9124-11f5a190c1de
+" alt=""/></p>
 
+<p>Neste caso, automaticamente o índice 4 é atribuído ao vetor num.</p>
