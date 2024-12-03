@@ -131,3 +131,11 @@ para ser executada;<br>
 :bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/39bed8e6-7596-4d7e-8838-be2ed51d012c" alt=""/></p>
 
+<h3>:round_pushpin:	 Vetores</h3>
+<p>• Um vetor é uma variável composta unidimensional formada por uma sequência de variáveis, todas do mesmo tipo, com o mesmo nome e alocadas sequencialmente na memória. Uma vez que as variáveis têm o mesmo nome, o que as distingue é um índice, que referencia sua localização dentro da estrutura.</p>
+
+<h4>:triangular_flag_on_post:Declaração de um vetor</h4>
+
+<p><img src="https://github.com/user-attachments/assets/ba38435a-70f8-48e8-adf1-09f7bd18d197" alt=""/></p>
+https://github.com/user-attachments/assets/ba38435a-70f8-48e8-adf1-09f7bd18d197
+
