@@ -113,7 +113,7 @@ permitem verificar uma condição e decidir qual ação tomar com base
 nessa condição.<br>
 
 <h4>:triangular_flag_on_post:Estrutura</h4>
-<p><img src="https://github.com/user-attachments/assets/f225800d-e20d-4595-9534-98189bb62ea0](https://github.com/user-attachments/assets/257f3e26-9879-46cb-97a5-ed72eafee7d7" alt=""/></p>
+<p><img src="https://github.com/user-attachments/assets/257f3e26-9879-46cb-97a5-ed72eafee7d" alt=""/></p>
 
 :bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/f225800d-e20d-4595-9534-98189bb62ea0" alt=""/></p>
