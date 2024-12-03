@@ -118,11 +118,6 @@ nessa condição.<br>
 :bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/f225800d-e20d-4595-9534-98189bb62ea0" alt=""/></p>
 
-<h3>:round_pushpin:	SE SENÃO</h3>
-<p>Utilizando se senão para combinar duas estruturas simples:</p>
-
-<p><img src="https://github.com/user-attachments/assets/b3d29fd7-7061-4fd5-8a5b-f0e85b41f1fb" alt=""/></p>
-
 <h3>:round_pushpin:	 Estrutura de Seleção Escolha-Caso</h3>
 <p>• É uma estrutura de seleção múltipla que desvia o fluxo para um
 
