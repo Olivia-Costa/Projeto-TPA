@@ -135,7 +135,28 @@ para ser executada;<br>
 <p>• Um vetor é uma variável composta unidimensional formada por uma sequência de variáveis, todas do mesmo tipo, com o mesmo nome e alocadas sequencialmente na memória. Uma vez que as variáveis têm o mesmo nome, o que as distingue é um índice, que referencia sua localização dentro da estrutura.</p>
 
 <h4>:triangular_flag_on_post:Declaração de um vetor</h4>
+<p>A declaração de um vetor é feita da seguinte maneira:</p>
 
+<p>:bulb:</p>
 <p><img src="https://github.com/user-attachments/assets/ba38435a-70f8-48e8-adf1-09f7bd18d197" alt=""/></p>
-https://github.com/user-attachments/assets/ba38435a-70f8-48e8-adf1-09f7bd18d197
+
+<p>Onde:<br><br>
+
+tipo é o tipo de dado que será armazenado no vetor;
+tamanho é quantidade de variáveis que vão compor o vetor;
+nome é o nome da variável do tipo vetor
+Dessa forma temos, por exemplo:<br>
+
+:bulb:Declaração em pseudocódigo:</p>
+<p><img src="https://github.com/user-attachments/assets/fb3e0a7a-d757-4bcf-b50e-af1059fd0a45" alt=""/></p>
+
+<p>:bulb:Declaração em C:</p>
+<p><img src="https://github.com/user-attachments/assets/aa1f88e8-a671-442e-a38b-e9df3c2fd308" alt=""/></p>
+
+<p>Em ambos os casos, declaramos um vetor de números inteiros de 10 posições (k) , um vetor de números reais de 5 posições (vet) e um vetor de caracteres de 20 posições (nome).<br>
+
+Na declaração de um vetor podemos omitir seu tamanho , desde que quando seja feita a declaração, já sejam atribuídos seus valores, como no exemplo abaixo:</p>
+
+<p>:bulb:</p>
+
 
