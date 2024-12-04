@@ -129,9 +129,12 @@ determinadas em sua estrutura.<br>
 
 existe um menu de opções, onde o usuário deve escolher apenas uma,
 
-para ser executada;<br>
+para ser executada;<br></p>
 
-:bulb:Exemplo:</p>
+<h4>:triangular_flag_on_post:Estrutura</h4>
+<p><img src="https://github.com/user-attachments/assets/a053b696-6e08-41ab-9861-21bad67e008d" alt=""/></p>
+
+<p>:bulb:Exemplo:</p>
 <p><img src="https://github.com/user-attachments/assets/39bed8e6-7596-4d7e-8838-be2ed51d012c" alt=""/></p>
 
 <h3>:round_pushpin:	 Vetores</h3>
