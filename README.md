@@ -168,3 +168,26 @@ Na declaração de um vetor podemos omitir seu tamanho , desde que quando seja f
 <p><img src="https://github.com/user-attachments/assets/22da749d-b734-4717-9124-11f5a190c1de" alt=""/></p>
 
 <p>Neste caso, automaticamente o índice 4 é atribuído ao vetor num.</p>
+
+<h3>:round_pushpin:	 Práticas</h3>
+
+<p>:pencil: Introdução ao Algoritmo</p>
+
+<p><img src="https://github.com/user-attachments/assets/f7629a1e-e904-4660-aff3-85d87b766600" alt=""/></p>
+
+<p>:pencil: SE SENÃO</p>
+
+<p><img src="https://github.com/user-attachments/assets/b22b298e-3618-4038-af27-9db333a3f79b" alt=""/></p>
+
+<p>:pencil: Escolha Caso</p>
+
+<p><img src="https://github.com/user-attachments/assets/d4ceea86-8e24-444f-a589-094977d414f9" alt=""/></p>
+
+<p>:pencil: Laços de Repetição (Loops)</p>
+<p><img src="https://github.com/user-attachments/assets/6c4889b1-7efe-4aea-88b9-fcc467961a34" alt=""/></p>
+
+<p>Para e Enquanto</p>
+<p><img src="https://github.com/user-attachments/assets/ab16bf07-c6ef-48b7-b546-a249a74bee30" alt=""/></p>
+
+<p>:pencil: Vetor</p>
+<p><img src="https://github.com/user-attachments/assets/07d49021-a7ce-49f3-8ca2-9a2b63581ce1" alt=""/></p>
